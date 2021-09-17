@@ -1,0 +1,21 @@
+{
+    "name": "nguyenhiep/make-tree",
+    "description": "convert table of contents to tree",
+    "type": "library",
+    "require": {
+        "symfony/var-dumper": "^5.3",
+        "illuminate/collections": ">=7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nguyenhiep\\MakeTree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyễn Văn Hiệp",
+            "email": "nguyenhiepvan.bka@gmail.com"
+        }
+    ]
+}

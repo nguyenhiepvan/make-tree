@@ -1,2 +1,2 @@
 # make-tree
-convert table contents to tree
+convert table of contents to tree
